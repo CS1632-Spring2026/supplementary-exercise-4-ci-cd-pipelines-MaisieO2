@@ -39,7 +39,10 @@
     <repository>
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
-      <url>https://github.com/CS1632-Spring2026/supplementary-exercise-4-ci-cd-pipelines-MaisieO2/edit/main/pom.xml</url>
+      <url>https://maven.pkg.github.com/CS1632-Spring2026/supplementary-exercise-4-ci-cd-pipelines-MaisieO2</url>
+    </repository>
+  </distributionManagement>
+
     </repository>
   </distributionManagement>
 
